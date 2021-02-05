@@ -40,9 +40,10 @@
 body{
   
 font-family: muktaB;
-background: #f46b45;  /* fallback for old browsers */
-background: -webkit-linear-gradient( #eea849, #f46b45);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient( #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #2193b0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 
 
 
@@ -76,7 +77,7 @@ background: linear-gradient( #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16
   @media screen and (min-width: 320px) and (max-width:374px) {
     .clickButton{
       position: absolute;
-      /* background-color: #eea849; */
+     
     color: black;
     top: 68px;
     right: 12px;
@@ -88,7 +89,7 @@ background: linear-gradient( #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16
   @media screen and (min-width: 375px) and (max-width: 424px) {
     .clickButton{
       position: absolute;
-    /* background-color: #eea849; */
+  
       color: black;
       top: 86px;
       right: 21px;
@@ -101,7 +102,7 @@ background: linear-gradient( #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16
   @media screen and (min-width: 425px) and (max-width: 767px) {
     .clickButton{
       position: absolute;
-    /* background-color: #eea849; */
+   
       color: black;
       top: 97px;
       right: 11px;
@@ -113,7 +114,7 @@ background: linear-gradient( #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16
   @media screen and (min-width: 768px) and (max-width: 1023px) {
     .clickButton{
       position: absolute;
-    /* background-color: #eea849; */
+   
       color: black;
       top: 51px;
       right: 11px;
@@ -125,7 +126,7 @@ background: linear-gradient( #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16
   @media screen and (min-width: 1024px) and (max-width: 1439px) {
     .clickButton{
       position: absolute;
-      /* background-color: #eea849; */
+   
       color: black;
       top: 69px;
       right: 22px;
@@ -137,7 +138,7 @@ background: linear-gradient( #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16
   @media screen and (min-width: 1440px) {
     .clickButton{
       position: absolute;
-    /* background-color: #eea849; */
+ 
       color: black;
       top: 86px;
       right: 29px;
